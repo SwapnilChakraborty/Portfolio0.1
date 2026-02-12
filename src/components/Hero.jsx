@@ -40,7 +40,7 @@ const Hero = () => {
             marginBottom: '1rem',
             display: 'block'
           }}>
-            Hi, my name is
+            Hi, my name is Swapnil
           </span>
         </motion.div>
 

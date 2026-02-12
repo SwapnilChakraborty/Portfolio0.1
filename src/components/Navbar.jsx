@@ -34,7 +34,7 @@ const Navbar = ({ activePage }) => {
                 to="/"
                 style={{ fontSize: '1.5rem', fontWeight: 800, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '0.5rem', textTransform: 'uppercase', color: 'white', textDecoration: 'none' }}
             >
-                <span style={{ color: 'var(--primary)' }}>//</span> Your Name
+                <span style={{ color: 'var(--primary)' }}>//</span> Swapnil Chakraborty
             </Link>
 
             <div style={{ display: 'flex', gap: '2rem', fontWeight: 600, textTransform: 'uppercase', fontSize: '0.9rem' }}>
